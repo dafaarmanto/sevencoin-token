@@ -1,0 +1,17 @@
+{
+  "name": "sevencoin_token_sale",
+  "version": "1.0.0",
+  "description": "SevenCoin Token Sale ICO",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "dafaarmanto",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
